@@ -20,8 +20,6 @@ public class Test extends Thread{
 		l.add("Sagar");
 		
 		System.out.println(l);
-		 
-		
 		//for each 
 		for(String s : l)
 		{
